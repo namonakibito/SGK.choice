@@ -23,6 +23,13 @@
 
 <br>
 
+### X-ray 智能机器人 [@Zonesgk_bot](https://t.me/Zonesgk_bot?start=TZUYZTTPQ)
+
+推荐度：★★★★<br>
+每日签到可获取积分，信息较全。
+
+<br>
+
 ### 星月社工库 [@XY_SGKBOT](https://t.me/XY_SGKBOT?start=583785512)
 
 推荐度：★★★★<br>
