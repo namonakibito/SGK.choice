@@ -65,7 +65,7 @@
 
 <br>
 
-### [LosePrivacy](https://loseprivacy.sbs?lp=NDMzNDM1))
+### [LosePrivacy](https://loseprivacy.sbs?lp=NDMzNDM1)
 
 推荐度：★★★★
 数据量一般但内容较准确，不像有些库有大量重复信息，有收录数据清单可独立查询。网站按关键词收费，1元一个关键词，购买后可对该关键词不限次数查询。每日签到可以获得1.5元。<br>
