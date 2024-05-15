@@ -18,8 +18,15 @@
 
 ### 狗狗免费社工机器人 [@DogeSGK_bot](https://t.me/DogeSGK_bot?start=583785512)
 
-推荐度：★★★<br>
-每日签到可获取积分。
+推荐度：★★★★<br>
+每日签到可获取积分，查询无结果退还积分。
+
+<br>
+
+### 星月社工库 [@XY_SGKBOT](https://t.me/XY_SGKBOT?start=583785512)
+
+推荐度：★★★★<br>
+每日签到可获取积分，查询出结果后用积分解锁。
 
 <br>
 
@@ -62,6 +69,12 @@
 
 推荐度：★★★<br>
 每日签到可获取积分。
+
+<br>
+
+### Hope机器人 [@HereisHopeBot](https://t.me/HereisHopeBot?start=583785512)
+
+推荐度：★★★<br>
 
 <br>
 
