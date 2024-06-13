@@ -2,7 +2,7 @@
 
 ##
 
-### 情报局社工库 [@InfSGK_bot](https://t.me/InfSGK_bot?start=NTgzNzg1NTEy)
+### 情报局社工库 [@qingbaojuSGK3_bot](https://t.me/qingbaojuSGK3_bot?start=NTgzNzg1NTEy)
 
 推荐度：★★★★★<br>
 每日签到可获取积分，查询结果信息相比其他库更全更准确，支持模糊查询。
@@ -92,6 +92,11 @@
 推荐度：★★★<br>
 
 
-<br> 
+<br>
+
+### KSD社工库 [@SGKX_BBOT](https://t.me/SGKX_BBOT?start=qr4mnWQdL2Wx)
 
 
+推荐度：★★★<br>
+
+<br>
