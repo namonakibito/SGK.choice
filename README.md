@@ -9,10 +9,10 @@
 
 <br>
 
-### 社工庫机器人 – 永久免費 [@SGK_2024_BOT](http://t.me/SGK_2024_BOT?start=juoc1ifai)
+### 全国机主/猎魔/补齐机器人 [@SGKC_Bot](https://t.me/SGKC_Bot?start=NImYcjK2)
 
 推荐度：★★★★<br>
-每日签到可获取积分，查询结果信息较全。
+查询机主专用
 
 <br>
 
