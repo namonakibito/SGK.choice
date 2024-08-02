@@ -9,13 +9,6 @@
 
 <br>
 
-### 全国机主/猎魔/补齐机器人 [@SGKC_Bot](https://t.me/SGKC_Bot?start=NImYcjK2)
-
-推荐度：★★★★<br>
-查询机主专用
-
-<br>
-
 ### 狗狗免费社工机器人 [@DogeSGK_bot](https://t.me/DogeSGK_bot?start=583785512)
 
 推荐度：★★★★<br>
@@ -100,3 +93,11 @@
 推荐度：★★★<br>
 
 <br> 
+
+### 全国机主/猎魔/补齐机器人 [@SGKC_Bot](https://t.me/SGKC_Bot?start=NImYcjK2)
+
+推荐度：★★★<br>
+查询机主专用
+
+
+<br>
