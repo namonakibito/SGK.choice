@@ -87,7 +87,7 @@
 
 <br> 
 
-### KSD社工库 [@SGKX_BBOT](https://t.me/SGKX_BBOT?start=qr4mnWQdL2Wx)
+### 智网综合社工库 [@SGKX_BBOT](https://t.me/SGKX_BBOT?start=qr4mnWQdL2Wx)
 
 
 推荐度：★★★<br>
@@ -97,7 +97,13 @@
 ### 全国机主/猎魔/补齐机器人 [@SGKC_Bot](https://t.me/SGKC_Bot?start=NImYcjK2)
 
 推荐度：★★★<br>
-查询机主专用
+
+
+<br>
+
+### 智网全国户籍机器人 [@GERENHUJI_bot](https://t.me/GERENHUJI_bot?start=tQCN63Fi))
+
+推荐度：★★★<br>
 
 
 <br>
