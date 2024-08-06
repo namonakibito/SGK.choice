@@ -101,7 +101,7 @@
 
 <br>
 
-### 智网全国户籍机器人 [@GERENHUJI_bot](https://t.me/GERENHUJI_bot?start=tQCN63Fi))
+### 智网全国户籍机器人 [@GERENHUJI_bot](https://t.me/GERENHUJI_bot?start=tQCN63Fi)
 
 推荐度：★★★<br>
 
