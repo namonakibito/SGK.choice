@@ -65,13 +65,6 @@
 
 <br>
 
-### DATA_007社工库 [@DATA007_SGK](https://t.me/DATA_007bot?start=o73XwC64wg)
-
-推荐度：★★★<br>
-每日签到可获取积分。
-
-<br>
-
 ### 知乎社工库机器人 [@zhihu_bot](https://t.me/zhihu_bot?start=ZHIHU_RZICPQRJ)
 
 推荐度：★★★<br>
