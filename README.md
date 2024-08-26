@@ -58,7 +58,7 @@
 
 <br>
 
-### 星盾社工库 [@XingDun_SGK](https://t.me/XingDun2Bot?start=1gxMd0h)
+### 星盾社工库 [@XingDun_SGK](https://t.me/XingDun6Bot?start=1gxMd0h)
 
 推荐度：★★★<br>
 能查到一些其他库没有的快递地址。
