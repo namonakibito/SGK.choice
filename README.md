@@ -85,16 +85,10 @@
 
 推荐度：★★★<br>
 
-<br> 
-
-### 全国机主/猎魔/补齐机器人 [@SGKC_Bot](https://t.me/SGKC_Bot?start=NImYcjK2)
-
-推荐度：★★★<br>
-
 
 <br>
 
-### 智网全国户籍机器人 [@GERENHUJI_bot](https://t.me/GERENHUJI_bot?start=tQCN63Fi)
+### 智网全国户籍机器人 [@SGKQMS_bot](https://t.me/SGKQMS_bot?start=583785512)
 
 推荐度：★★★<br>
 
