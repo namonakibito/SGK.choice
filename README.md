@@ -6,7 +6,7 @@
 
 ### 智网综合社工库 [@SGKX_BBOT](https://t.me/SGKX_BBOT?start=qr4mnWQdL2Wx)
 
-### 智网全国户籍机器人 [@SGKQMS_bot](https://t.me/SGKQMS_bot?start=583785512)
+### 全国照片户籍机器人 [@SGKQMS_bot](https://t.me/SGKQMS_bot?start=583785512)
 
 ### 狗狗免费社工机器人 [@DogeSGK_bot](https://t.me/DogeSGK_bot?start=583785512)
 
