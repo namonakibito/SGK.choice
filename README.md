@@ -18,6 +18,5 @@
 
 ### 知乎社工库机器人 [@zhihu_bot](https://t.me/zhihu_bot?start=ZHIHU_RZICPQRJ)
 
-### Hope机器人 [@HereisHopeBot](https://t.me/HereisHopeBot?start=583785512)
 
 
