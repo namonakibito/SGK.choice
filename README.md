@@ -14,8 +14,6 @@
 
 ### 花花免费全球社工库 [@sgkvipbot](https://t.me/sgkvipbot?start=vip_1206966)
 
-### Space X 隐私信息查询平台 [@Space_SGK](https://t.me/SpaceSGK_bot?start=cGgfsuNtF7)
-
 ### 星盾社工库 [@XingDun_SGK](https://t.me/XingDun6Bot?start=1gxMd0h)
 
 ### 知乎社工库机器人 [@zhihu_bot](https://t.me/zhihu_bot?start=ZHIHU_RZICPQRJ)
