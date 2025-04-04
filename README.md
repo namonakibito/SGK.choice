@@ -24,3 +24,8 @@
 
 ### 好旺机器人 [@haowangshegongkubot](https://t.me/haowangshegongkubot?start=A2JV3Y2FG8CZSPTFOVNHS)
 
+### 红鼻子机器人 [@freesgk123_bot](https://t.me/freesgk123_bot?start=0BJW6KAQ)
+
+### 007机器人 [@sgk007_bot](https://t.me/sgk007_bot?start=NTgzNzg1NTEy)
+
+### 无名社工机器人 [@wmsgk1_bot](https://t.me/wmsgk1_bot?start=583785512)
