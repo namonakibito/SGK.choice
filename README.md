@@ -8,7 +8,7 @@
 
 ### X-ray 智能机器人 [@Zonesgk_bot](https://t.me/Zonesgk_bot?start=TZUYZTTPQ)
 
-### 星月社工库 [@XY_SGKBOT](https://t.me/XY_SGKBOT?start=583785512)
+### 淘宝社工库 [@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=nU7dXx)
 
 ### LosePrivacy隐私查询器 [LosePrivacy](https://loseprivacy.sbs?lp=NDMzNDM1)
 
