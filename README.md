@@ -20,5 +20,7 @@
 
 ### 知乎社工库机器人 [@zhihu_bot](https://t.me/zhihu_bot?start=ZHIHU_RZICPQRJ)
 
+### 叮当猫机器人 [@DingDangCats_Bot](https://t.me/DingDangCats_Bot?start=d4467f61aad02995)
 
+### 好旺机器人 [@haowangshegongkubot](https://t.me/haowangshegongkubot?start=A2JV3Y2FG8CZSPTFOVNHS)
 
