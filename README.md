@@ -10,7 +10,7 @@
 
 ### 繁花社工库 [@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_THSOEZRS)
 
-### 情报局社工库（伪） [@CIASGK01Bot](https://t.me/CIASGK01Bot?start=zY6ySF8b)
+### 情报局社工库 [@CIASGK01Bot](https://t.me/CIASGK01Bot?start=zY6ySF8b)
 
 ### 淘宝社工库 [@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=nU7dXx)
 
