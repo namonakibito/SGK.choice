@@ -4,8 +4,6 @@
 
 ### 情报局社工库 [@CIASGK01Bot](https://t.me/CIASGK01Bot?start=zY6ySF8b)
 
-### 全国照片户籍机器人 [@SGKQMS_bot](https://t.me/SGKQMS_bot?start=583785512)
-
 ### 智网综合社工库 [@AEON_SGKBOT](https://t.me/AEON_SGKBOT?start=5487573151)
 
 ### 狗狗免费社工机器人 [@DogeSGK_bot](https://t.me/DogeSGK_bot?start=583785512)
