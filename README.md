@@ -6,8 +6,6 @@
 
 ### 智网综合社工库 [@AEON_SGKBOT](https://t.me/AEON_SGKBOT?start=5487573151)
 
-### 狗狗免费社工机器人 [@DogeSGK_bot](https://t.me/DogeSGK_bot?start=583785512)
-
 ### X-ray 智能机器人 [@Zonesgk_bot](https://t.me/Zonesgk_bot?start=TZUYZTTPQ)
 
 ### 星月社工库 [@XY_SGKBOT](https://t.me/XY_SGKBOT?start=583785512)
