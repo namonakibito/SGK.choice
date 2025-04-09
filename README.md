@@ -29,3 +29,5 @@
 ### 007机器人 [@sgk007_bot](https://t.me/sgk007_bot?start=NTgzNzg1NTEy)
 
 ### 无名社工机器人 [@wmsgk1_bot](https://t.me/wmsgk1_bot?start=583785512)
+
+### 空壳bot [@Freeshegongku_bot](https://t.me/Freeshegongku_bot?start=5837855121mwktg)
