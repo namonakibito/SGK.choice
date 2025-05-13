@@ -2,6 +2,8 @@
 
 ##
 
+### 情报局社工库 [@QingBaoJuXuanwubot](https://t.me/QingBaoJuXuanwubot?start=NTgzNzg1NTEy)
+
 ### X-ray 智能机器人 [@Zonesgk_bot](https://t.me/Zonesgk_bot?start=TZUYZTTPQ)
 
 ### 永旺担保机器人 [@AEON_SGKBOT](http://t.me/AEON_SGKBOT?start=UOB7rr06lzpwsxe)
@@ -9,8 +11,6 @@
 ### 星盾社工库 [@XingDun_SGK](https://t.me/XingDun6Bot?start=1gxMd0h)
 
 ### 繁花社工库 [@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_THSOEZRS)
-
-### 情报局社工库 [@CIASGK01Bot](https://t.me/CIASGK01Bot?start=zY6ySF8b)
 
 ### 淘宝社工库 [@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=nU7dXx)
 
