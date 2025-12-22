@@ -2,7 +2,7 @@
 
 ##
 
-### 情报局社工库 [@QingBaoJuXuanwubot](https://t.me/QingBaoJuXuanwubot?start=NTgzNzg1NTEy)
+### 情报局社工库 [@QingBaoJuXWbot](https://t.me/QingBaoJuXWbot?start=NTgzNzg1NTEy)
 
 ### X-ray 智能机器人 [@Xray_Sgk_bot](https://t.me/Xray_Sgk_bot?start=TZUYZTTPQ)
 
