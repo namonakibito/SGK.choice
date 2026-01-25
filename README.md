@@ -4,7 +4,7 @@
 
 ### 情报局社工库 [@QingBaoJuXWbot](https://t.me/QingBaoJuXWbot?start=NTgzNzg1NTEy)
 
-### X-ray 智能机器人 [@Xray_Sgk_bot](https://t.me/Xray_Sgk_bot?start=TZUYZTTPQ)
+### X-ray 智能机器人 [@Xray_E_Bot](https://t.me/Xray_E_Bot?start=TZUYZTTPQ)
 
 ### 永旺担保机器人 [@AEON_SGKBOT](http://t.me/AEON_SGKBOT?start=UOB7rr06lzpwsxe)
 
