@@ -10,6 +10,8 @@
 
 ### HOPE社工库 [@sgkhopebot](https://t.me/sgkhopebot?start=hpb8dx)
 
+### 淘宝社工库 [@TBSGKBot](https://t.me/TBSGKBot?start=nU7dXx)
+
 ### 繁花社工库 [@FanHuaSGK_bot](https://t.me/FanHuaSGK_bot?start=FanHua_THSOEZRS)
 
 ### 零度社工库 [@SGK2026BOT](https://t.me/SGK2026BOT?start=JO6YVA3)
