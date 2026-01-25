@@ -14,20 +14,10 @@
 
 ### 零度社工库 [@SGK2026BOT](https://t.me/SGK2026BOT?start=JO6YVA3)
 
-### LosePrivacy隐私查询器 [LosePrivacy](https://loseprivacy.sbs?lp=NDMzNDM1)
+### LosePrivacy隐私查询器 [LosePrivacy](https://loseprivacy.net?lp=NDMzNDM1)
 
 ### 花花免费全球社工库 [@sgkvipbot](https://t.me/sgkvipbot?start=vip_1206966)
 
-### 知乎社工库机器人 [@zhihu_bot](https://t.me/zhihu_bot?start=ZHIHU_RZICPQRJ)
-
-### 叮当猫机器人 [@DingDangCats_Bot](https://t.me/DingDangCats_Bot?start=d4467f61aad02995)
-
-### 好旺机器人 [@haowangshegongkubot](https://t.me/haowangshegongkubot?start=A2JV3Y2FG8CZSPTFOVNHS)
-
-### 红鼻子机器人 [@freesgk123_bot](https://t.me/freesgk123_bot?start=0BJW6KAQ)
-
-### 007机器人 [@sgk007_bot](https://t.me/sgk007_bot?start=NTgzNzg1NTEy)
-
-### 无名社工机器人 [@wmsgk1_bot](https://t.me/wmsgk1_bot?start=583785512)
+### 黑盒社工库 [@sgkSgkbot](https://t.me/sgkSgkbot?start=IOhtKLL)
 
 ### 空壳bot [@Freeshegongku_bot](https://t.me/Freeshegongku_bot?start=5837855121mwktg)
