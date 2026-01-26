@@ -6,7 +6,7 @@
 
 ### X-ray 智能机器人 [@Xray_E_Bot](https://t.me/Xray_E_Bot?start=TZUYZTTPQ)
 
-### 永旺担保机器人 [@AEON_SGKBOT](http://t.me/AEON_SGKBOT?start=UOB7rr06lzpwsxe)
+### 永旺免费社工库机器人 [@AEON_SGKBOT](http://t.me/AEON_SGKBOT?start=UOB7rr06lzpwsxe)
 
 ### HOPE社工库 [@sgkhopebot](https://t.me/sgkhopebot?start=hpb8dx)
 
