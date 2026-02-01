@@ -22,6 +22,6 @@
 
 ### 花花免费全球社工库 [@sgkvipbot](https://t.me/sgkvipbot?start=vip_1206966)
 
-### 黑盒社工库 [@sgkSgkbot](https://t.me/sgkSgkbot?start=IOhtKLL)
+### 黑盒社工库 [@sgkboxbot](https://t.me/sgkboxbot?start=IOhtKLL)
 
 ### 空壳bot [@Freeshegongku_bot](https://t.me/Freeshegongku_bot?start=5837855121mwktg)
